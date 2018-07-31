@@ -1,14 +1,13 @@
-# Pemilihan pegawai terbaik
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/imamdigmi/simple-selection-employees-dss-ahp/blob/master/LICENSE)
+# Pemilihan Siswa Berprestasi
 
-Implementasi metode AHP pada pemilihan pegawai terbaik berdasarkan penilaian.
+Implementasi metode AHP pada pemilihan Siswa berprestasi.
 
 ![Screenshot Home](screenshot.png "Screenshot Home")
 
 ## Cara menggunakan
 1. Clone repository
     ```
-    $ git clone https://github.com:imamdigmi/simple-selection-employees-dss-ahp.git
+    $ git clone https://github.com/said096/ahp-siswa-berprestasi
     ```
 2. Letakkan folder didalam root direktori web server
 3. Import `database.sql`
